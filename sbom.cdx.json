@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:20cc554e-03dd-5508-b5dc-6d798d142695",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-13T20:31:06Z",
+    "component": {
+      "type": "application",
+      "name": "K_DREAMER4",
+      "version": "e3f02248693a",
+      "bom-ref": "pkg:generic/anticloud/K_DREAMER4@e3f02248693a",
+      "purl": "pkg:generic/anticloud/K_DREAMER4@e3f02248693a",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "e3f02248693a79dc8b0ebd62c93683888ddaccfe"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/danijar/dreamerv3.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
